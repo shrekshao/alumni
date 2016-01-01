@@ -1,6 +1,6 @@
 # 同学录 Alumni
 
-[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/WebGLSamples/WebGL2Samples/blob/master/LICENSE.md)
+[![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/shrekshao/alumni/blob/master/LICENSE)
 
 仿小学时的同学录的web应用，[狄学长](http://shrekshao.github.io/)学习动态web的project
 
