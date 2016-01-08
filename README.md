@@ -2,7 +2,9 @@
 
 [![License](http://img.shields.io/:license-mit-blue.svg)](https://github.com/shrekshao/alumni/blob/master/LICENSE)
 
-仿小学时的同学录的web应用，[shrekshao/狄学长](http://shrekshao.github.io/)学习Web的project
+By [shrekshao/狄学长](http://shrekshao.github.io/), [杨佳星](https://github.com/JasonApeman)
+
+仿小学时的同学录的web应用，学习Web的project
 
 ## 实现方案
 
