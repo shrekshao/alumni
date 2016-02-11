@@ -8,14 +8,14 @@ By [shrekshao/狄学长](http://shrekshao.github.io/), [杨佳星](https://githu
 
 ## 实现方案
 
-* 用Google App来做？（前端？）
+* 用Google App来做成本地的应用，不需要服务器端？（前端？）
 
 ## 白板
 
 * 需要文件存取/数据库
     * 每张同学录一个JSON文件？
 
-* 账号权限获取 （Google app 支持，有例程）
+* 账号权限获取 （Google app 支持，有例程(github)）
     * 获得好友列表，邮箱等通讯接口
     
 * 返回的表单如何获取？
@@ -35,3 +35,5 @@ By [shrekshao/狄学长](http://shrekshao.github.io/), [杨佳星](https://githu
 
 * 生成静态博客（？）的同学录页面
 
+## 展现
+ * WebGL 的书翻页效果 (http://webglsamples.org/book/book.html)
